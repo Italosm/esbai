@@ -1,7 +1,6 @@
 .vscode
 testing-project
 .mypy_cache
-poetry.lock
 dev-link/
 .mypy_cache
 .coverage
